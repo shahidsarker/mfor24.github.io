@@ -1,4 +1,4 @@
 ---
-title: Jekyll URL Shortener
-redirect_to: https://github.com/hlaueriksson/jekyll-url-shortener
+title: Mahfuzul Islam for 24
+redirect_to: https://www.mahfuzulfor24.com/
 ---
