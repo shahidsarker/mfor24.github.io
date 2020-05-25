@@ -1,0 +1,12 @@
+title: mfor24.com
+description: ✂️🔗 This is a template repository for making URL Shorteners with Jekyll and GitHub Pages. Create short URLs that can be easily shared, tweeted, or emailed to friends.
+logo: /assets/img/logo.png
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
+
+permalink: /:slug/
+
+plugins:
+  - jekyll-redirect-from
+#repository: Mahfuzul-for-24/mfor24.github.io
