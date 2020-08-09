@@ -1,3 +1,24 @@
+# Shortcut Instructions
+
+1. Hit the __'Create new file'__.
+2. The file name should be formatted as `<shortlink>.md`. (i.e. a file named `hello.md` would create a shortlink at mfor24.com/hello)
+3. Copy over the sample template and edit with a title and URL.
+
+
+#### Sample Template:
+```
+---
+title: Example Site
+redirect_to: https://example.com
+---
+```
+
+4. Select the __'Create a new branch for this commit and start a pull request'__ option. Click 'Propose new file'
+5. Hit the 'Create pull request' button, followed by 'Merge pull request' and 'Confirm merge'. (Optionally, you can hit the 'Delete branch' button afterwards.)
+6. The shortlink should be live in a few minutes.
+
+---
+
 # Jekyll URL Shortener
 
 > :scissors: :link: This is a template repository for making URL Shorteners with Jekyll and GitHub Pages. Create short URLs that can be easily shared, tweeted, or emailed to friends. Fork this repo to get started.
